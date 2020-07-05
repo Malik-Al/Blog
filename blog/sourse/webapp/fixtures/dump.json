@@ -1,0 +1,75 @@
+[
+{
+  "model": "webapp.article",
+  "pk": 1,
+  "fields": {
+    "title": "Article",
+    "text": "Text",
+    "author": "Me",
+    "created_at": "2020-06-27T14:54:01.735Z",
+    "updated_at": "2020-06-27T14:54:01.735Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 2,
+  "fields": {
+    "title": "Title",
+    "text": "Article",
+    "author": "Me",
+    "created_at": "2020-06-27T14:54:40.582Z",
+    "updated_at": "2020-06-27T14:54:40.582Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 3,
+  "fields": {
+    "title": "Article3",
+    "text": "Text",
+    "author": "She",
+    "created_at": "2020-06-27T14:55:19.655Z",
+    "updated_at": "2020-06-27T14:55:19.655Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 4,
+  "fields": {
+    "title": "Even More",
+    "text": "Contr",
+    "author": "Me",
+    "created_at": "2020-06-27T15:02:59.180Z",
+    "updated_at": "2020-06-27T15:02:59.180Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 5,
+  "fields": {
+    "title": "main",
+    "text": "taxt",
+    "author": "Me",
+    "created_at": "2020-06-27T20:04:19.879Z",
+    "updated_at": "2020-06-27T20:04:19.879Z"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$58cwBwe1o6hO$HXFIBLitx9nB6ZKeje7eyUz/rUKvVV43msSIjh9B720=",
+    "last_login": "2020-06-27T19:54:51Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "Malik",
+    "last_name": "Imenov",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-06-27T19:54:27Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
